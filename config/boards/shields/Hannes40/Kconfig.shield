@@ -1,2 +1,2 @@
 config SHIELD_HANNES40
-    def_bool $(shields_list_contains, Hannes40)
+    def_bool $(shields_list_contains,Hannes40)
