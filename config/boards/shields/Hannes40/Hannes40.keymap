@@ -20,7 +20,7 @@
 				&kp LCTL  &kp LGUI &kp LALT &kp 1    &kp SPC	  &kp SPC &kp LEFT &kp LEFT  &kp DOWN &kp RIGHT &kp C_PP
             >;
 
-            sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN>;
+            sensor-bindings = <&inc_dec_kp C_VOL_DN C_VOL_UP>;
         };
     };
 };
