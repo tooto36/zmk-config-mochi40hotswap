@@ -1,0 +1,6 @@
+if SHIELD_HANNES40
+
+config ZMK_KEYBOARD_NAME
+    default "Hannes40"
+
+endif
